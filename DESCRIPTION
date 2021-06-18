@@ -19,3 +19,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     httr
+URL: https://github.com/Athospd/asnDeploy
+BugReports: https://github.com/Athospd/asnDeploy/issues
