@@ -1,0 +1,23 @@
+---
+title: "Produtos de dados no R"
+subtitle: ""
+institute: "ASN.Rocks"
+author: "<img src = 'https://d33wubrfki0l68.cloudfront.net/9b0699f18268059bdd2e5c21538a29eade7cbd2b/67e5c/img/logo/cursor1-5.png' width = '40%'>"
+date: "`r paste(lubridate::month(Sys.Date(), label = TRUE, abbr = FALSE), 'de', lubridate::year(Sys.Date()))`"
+output_dir: "../../docs"
+output:
+  xaringan::moon_reader:
+    css: ["default", "default-fonts", "static/css/custom-intro.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+
+```{r}
+getwd()
+```
+
