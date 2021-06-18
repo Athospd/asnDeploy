@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^asnDeploy\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^Dockerfile$
+^\.dockerignore$
