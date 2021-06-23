@@ -41,3 +41,4 @@ get_golem_config <- function(
   )
 }
 
+install.packages("httr")
